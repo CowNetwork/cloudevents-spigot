@@ -88,7 +88,7 @@
                 <artifactId>maven-shade-plugin</artifactId>
                 <version>3.2.4</version>
                 <configuration>
-                    <finalName>user-service-client-spigot</finalName>
+                    <finalName>cloudevents-spigot</finalName>
                 </configuration>
                 <executions>
                     <execution>
