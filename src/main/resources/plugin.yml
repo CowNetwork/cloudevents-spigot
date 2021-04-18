@@ -1,0 +1,5 @@
+name: CloudEventsPlugin
+main: network.cow.cloudevents.CloudEventsPlugin
+version: 1.0.0
+author: Benedikt Wüller
+depend: [Grape]
